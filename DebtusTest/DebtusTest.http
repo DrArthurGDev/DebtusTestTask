@@ -1,6 +1,0 @@
-@DebtusTest_HostAddress = http://localhost:5119
-
-GET {{DebtusTest_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
